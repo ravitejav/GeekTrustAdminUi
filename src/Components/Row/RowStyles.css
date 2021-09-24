@@ -1,0 +1,29 @@
+.resultRowWrapper {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    height: 40px;
+    border-bottom: 1px solid #000;
+    transition: 0.25s;
+}
+.resultRowWrapper > * {
+    min-width: 140px;
+    text-align: center;
+}
+.resultRowWrapper:hover {
+    background-color: grey;
+    color: #fff;
+}
+.buttons {
+    
+}
+.saveButton {
+    color:green;
+}
+.deleteButton {
+    color: red;
+    margin-left: 0.25rem;
+}
+.editButton {
+    color: #000;
+}

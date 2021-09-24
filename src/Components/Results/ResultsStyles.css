@@ -1,0 +1,45 @@
+.noResults {
+    height: 60vh;
+    font-size: 2rem;
+}
+.resultsWrapper {
+    height: 100%;
+    flex-direction: column;
+    margin-top: 2rem;
+    width: 60%;
+}
+.resultsWrapper .resultHeading {
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    border-bottom: 1px solid #000;
+    height: 40px;
+}
+.resultsWrapper .resultHeading > * {
+    text-align: center;
+    min-width: 160px;
+}
+.pagination {
+    width: 60%;
+    padding: 1rem 1rem;
+    display: flex;
+    justify-content: space-between;
+}
+.pagination .deltedSeletecd {
+    border-radius: 6px;
+    background-color: rgb(216, 81, 81);
+    width: fit-content;
+    padding: 0.25rem 0.5rem;
+    color: #fff;
+}
+.pagination .pageNumbers > span {
+    margin-right: 0.25rem;
+    border-radius: 50%;
+    width: 2rem;
+    height: 2rem;
+    border: 0.5px solid #000;
+}
+.pagination .pageNumbers .activePage {
+    background-color: rgb(94, 94, 243);
+    color: #fff;
+}
