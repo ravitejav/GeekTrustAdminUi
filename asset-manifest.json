@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GeekTrustAdminUi/static/css/main.2ffa4cc0.chunk.css",
+    "main.js": "/GeekTrustAdminUi/static/js/main.0d74c7f9.chunk.js",
+    "main.js.map": "/GeekTrustAdminUi/static/js/main.0d74c7f9.chunk.js.map",
+    "runtime-main.js": "/GeekTrustAdminUi/static/js/runtime-main.2341622a.js",
+    "runtime-main.js.map": "/GeekTrustAdminUi/static/js/runtime-main.2341622a.js.map",
+    "static/js/2.c0b3302c.chunk.js": "/GeekTrustAdminUi/static/js/2.c0b3302c.chunk.js",
+    "static/js/2.c0b3302c.chunk.js.map": "/GeekTrustAdminUi/static/js/2.c0b3302c.chunk.js.map",
+    "static/js/3.2a418596.chunk.js": "/GeekTrustAdminUi/static/js/3.2a418596.chunk.js",
+    "static/js/3.2a418596.chunk.js.map": "/GeekTrustAdminUi/static/js/3.2a418596.chunk.js.map",
+    "index.html": "/GeekTrustAdminUi/index.html",
+    "static/css/main.2ffa4cc0.chunk.css.map": "/GeekTrustAdminUi/static/css/main.2ffa4cc0.chunk.css.map",
+    "static/js/2.c0b3302c.chunk.js.LICENSE.txt": "/GeekTrustAdminUi/static/js/2.c0b3302c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2341622a.js",
+    "static/js/2.c0b3302c.chunk.js",
+    "static/css/main.2ffa4cc0.chunk.css",
+    "static/js/main.0d74c7f9.chunk.js"
+  ]
+}
